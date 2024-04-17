@@ -16,11 +16,13 @@ O projeto foi desenvolvido com a seguinte tecnologia:
 ## 💻 Configurações Iniciais de Sistema
 Antes de proceguirmos com o projeto é necessário algumas configurações. A princípio vamos adicionar as variavés de ambiente necessárias:
 1.0  Na barra de pesquisa do windons digite: EDITAR AS VARIAVEIS DE AMBIENTE.
+
 2.0  Editar a variável "Path" e adicionar os caminhos:
 ```bash
 C:\Users\B045523\AppData\Roaming\Python\Python311
 C:\Users\B045523\AppData\Roaming\Python\Python311\Scripts
 ```
+
 3.0 Em Variáveis de usuário para xxxxxxx acrescentar as variáveis:
 ```bash
 http_proxy: http://proxy.mercantil.com.br:3128
